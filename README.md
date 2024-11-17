@@ -61,10 +61,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 
 ### 📈 GitHub Stats
 <!-- Replace `your-username` with your GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Trường's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=truongraph&theme=cobalt&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 ---
 
