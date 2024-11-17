@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Currently working as a **Full Stack Developer** at **DASOLUTION COMPANY LIMITED**
+- 💼 Currently working as a **Full Stack Developer** at **KMK TECHNOLOGY COMPANY LIMITED**
 - 🌱 I’m always learning and expanding my skillset
 - 📝 Sharing knowledge and helping others are my top priorities
 - 🎓 I have a background in Computer Science and hands-on experience across a range of **web development** projects
@@ -70,7 +70,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 
 ### 🔥 Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=truongraph&color=blueviolet" alt="Profile Views" />
 </p>
 
 ### 🔥 Fun Facts
@@ -79,5 +79,5 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 
 <!-- Footer GIF -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/footer_gif.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5cjBoN210dmp5ZHhpdjVhZnluMHZ6eW1vZGQwZndidWd5bWp4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.gif" width="300"/>
 </p>
