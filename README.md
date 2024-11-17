@@ -1,7 +1,7 @@
 # Hi there, I'm Trường! 👋
 
 <!-- Add a cool intro GIF here -->
-<img align="right" src="https://github.com/your-username/your-repo-name/blob/main/assets/cool_intro.gif" width="300"/>
+<iframe src="https://giphy.com/embed/2BhNcjRnnMR6kVRJfK" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/thedigitalhouse-ctd-digital-house-certified-tech-developer-2BhNcjRnnMR6kVRJfK">via GIPHY</a></p>
 
 Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full Stack Development**. My expertise spans across various technologies and frameworks, helping me create powerful, scalable, and user-friendly applications. 💻✨
 
@@ -67,6 +67,11 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 </p>
 
 ---
+
+### 🔥 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="Profile Views" />
+</p>
 
 ### 🔥 Fun Facts
 - 🎮 In my free time, I enjoy gaming and exploring new tech trends.
