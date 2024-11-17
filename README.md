@@ -59,6 +59,19 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 
 ---
 
+### 💬 Languages I Speak
+- **English** – Proficient
+- **Vietnamese** – Native
+
+---
+
+### 🚀 Featured Projects
+- **[Sales Management System](https://github.com/your-username/sales-management-system)** – A web app developed in **PHP** & **MySQL** for managing sales data.
+- **[E-commerce Platform](https://github.com/your-username/e-commerce-platform)** – A Laravel-based e-commerce platform with features like shopping cart, payment integration, and order management.
+- **[Real-Time Chat App](https://github.com/your-username/chat-app)** – A real-time chat app built using **React** and **Socket.io**.
+
+---
+
 ### 📈 GitHub Stats
 <!-- Replace `your-username` with your GitHub username -->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=truongraph&theme=cobalt&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
