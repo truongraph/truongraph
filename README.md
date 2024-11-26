@@ -93,17 +93,9 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
   <img src="https://komarev.com/ghpvc/?username=truongraph&color=blueviolet" alt="Profile Views" />
 </p>
 
-### 💼 My GitHub Projects
-Here are some of the projects I've worked on:
-
-- [Project 1](https://github.com/your-username/project-1) - Description of the first project.
-- [Project 2](https://github.com/your-username/project-2) - Description of the second project.
-- [Project 3](https://github.com/your-username/project-3) - Description of the third project.
-- [Project 4](https://github.com/your-username/project-4) - Description of the fourth project.
-
-Feel free to check out my GitHub repositories for more!
-
 <!-- Footer GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5cjBoN210dmp5ZHhpdjVhZnluMHZ6eW1vZGQwczh5aDcyYXB0dnZqbmZvY2FjcW9qcmhlOXIgUQ/10szqRi9ciETJdP95U/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5cjBoN210dmp5ZHhpdjVhZnluMHZ6eW1vZGQwZndidWd5bWp4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.gif" width="300"/>
 </p>
+
+
