@@ -60,6 +60,15 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+**CMS (Content Management Systems):**
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magento-EE6722?style=for-the-badge&logo=magento&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joomla-47A2D9?style=for-the-badge&logo=joomla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drupal-0063A1?style=for-the-badge&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-96BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
+
 **UX/UI:**
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
