@@ -78,7 +78,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 
 **Microsoft Power Platform:**
 
-<p> <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Automate-0066B8?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" /> <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> </p>
+<p> <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Automate-0066B8?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" /> <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /></p>
 
 ---
 
