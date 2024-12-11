@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full 
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Currently working as a **Full Stack Developer** at **KMK TECHNOLOGY COMPANY LIMITED**
+- 💼 Work as a **Full Stack Developer** at **KMK TECHNOLOGY COMPANY**
 - 🌱 I’m always learning and expanding my skillset
 - 📝 Sharing knowledge and helping others are my top priorities
 - 🎓 I have a background in Computer Science and hands-on experience across a range of **web development** projects
