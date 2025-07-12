@@ -1,7 +1,7 @@
 # Hi there, I'm Trường! 👋
 
 <!-- Add a cool intro GIF here -->
-<img align="right" src="https://www.votruong.info/perimg/me.png" width="300"/>
+<img align="right" src="https://www.votruong.info/perimg/me.png" width="150"/>
 
 Welcome to my GitHub! I'm a passionate **Web Developer** specializing in **Full Stack Development**. My expertise spans across various technologies and frameworks, helping me create powerful, scalable, and user-friendly applications. 💻✨
 
