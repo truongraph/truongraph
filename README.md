@@ -1,114 +1,124 @@
-<h1 align="center">👨‍💻 Võ Trường</h1>
-<h3 align="center">Full Stack Developer | UI/UX Enthusiast | Motion Lover</h3>
+<h1 align="center">Hi there, I'm Trường 👋</h1>
 
 <p align="center">
-  <a href="https://votruong.info" target="_blank"><img src="https://img.shields.io/badge/Website-votruong.info-0A66C2?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@truongbinnn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:truong.vd2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://www.votruong.info/perimg/me.png" width="120" alt="Trường's avatar" />
+</p>
+
+<p align="center">
+  🌐 <a href="https://votruong.info" target="_blank"><strong>votruong.info</strong></a> &nbsp;|&nbsp;
+  💼 <strong>Full Stack Developer</strong> &nbsp;|&nbsp;
+  📍 Vietnam
 </p>
 
 ---
 
-<img align="right" src="https://www.votruong.info/perimg/me.png" width="180" alt="Truong Avatar"/>
+## 🚀 About Me
+✨ I'm a creative and passionate **Full Stack Developer** with over 6 years of experience in building user-centric web applications with seamless UX/UI.
 
-## 🌟 Who I Am
-
-I'm **Trường**, a Frontend-driven **Full Stack Developer** from Vietnam 🇻🇳. I craft seamless, performant, and beautiful web experiences.  
-With over **6 years of hands-on experience**, I focus on:
-
-- 🖼 Intuitive UX/UI  
-- ⚡️ Micro-interactions & motion  
-- 📐 Component-driven development  
-- 🌍 Clean code and scalability
-
-> "I don't just build websites, I build user journeys." – Me.
+- 🔭 Currently working at **KMK TECHNOLOGY COMPANY**
+- 🧠 Always learning new tech & pushing limits with animation, AI, and performance
+- 🛠️ Focused on building high-quality, scalable, and maintainable solutions
+- ✍️ I love sharing knowledge and helping the dev community grow
 
 ---
 
-## 🔧 Tech Stack
-
-### ⚛️ Frontend Focused
-
-| Frameworks | Styling & Animation | State/Data |
-|-----------|----------------------|-------------|
-| ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) | ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer) | ![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=react-query) |
-
----
-
-### 🛠 Backend & DevOps
-
-- **Languages**: Node.js, PHP, C#, Python  
-- **Frameworks**: Laravel, .NET Core, Express  
-- **Databases**: PostgreSQL, SQL Server, MySQL, MongoDB  
-- **DevOps**: Docker, Vercel, Firebase, GitHub Actions
-
----
-
-### 🎨 Design & Tooling
-
-| Tools | CMS | Test |
-|-------|-----|------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) | WordPress, Shopify, PowerApps | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) |
-
----
-
-## 📦 Notable Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**votruong.info**](https://votruong.info) | Personal site with dynamic sections, GSAP, blog & contact | Next.js, Tailwind, Framer |
-| **Medical Service Tool** | Grouping, reporting & searching hospital services | Laravel, SQL Server |
-| **Real-time Form Builder** | Drag-drop field builder with live preview | Vue.js, Firebase |
-| **Admin Dashboard Kit** | Animated, responsive UI widgets for analytics | React, Tailwind, Zustand |
-
----
-
-## 🚀 Currently Learning
-
-- 🧠 Advanced micro-interactions with Framer Motion  
-- ⚙️ System Design for Web Architecture  
-- 🔍 Test-Driven Development with Playwright  
-- 🔥 AI-enhanced UI personalization (LLM + Web)
-
----
-
-## 🧘 Fun Facts
-
-- 🎥 I create tutorials on YouTube about UI/UX & dev tips  
-- 🎮 I design mini-games as UI animation experiments  
-- 🧩 I’m obsessed with subtle detail & performance  
-- 🧑‍🏫 I mentor junior devs in frontend interviews & resume building
-
----
-
-## 🧠 Languages
-
-- 🇬🇧 English — Professional (Speaking, Writing, Docs)
-- 🇻🇳 Vietnamese — Native
-
----
-
-## 💬 Community Contributions
-
-- [TopCode.vn Profile](https://topcode.vn/thanh-vien/vo-61380.htm)  
-- [ShareCode.vn Profile](https://sharecode.vn/thanh-vien/truong-259085.htm)
-
----
-
-## 📊 GitHub Analytics
-
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongraph&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongraph&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=truongraph&color=blueviolet" />
+  <a href="https://www.facebook.com/vtruong.it/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@truongbinnn" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:truong.vd2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://votruong.info" target="_blank">
+    <img src="https://img.shields.io/badge/Website-votruong.info-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+## 🧠 Tech Stack
+
+### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🧩 Database & ORM
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 📦 CMS / eCommerce
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-96BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
+
+### 🎨 UX/UI Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+</p>
+
+### 🧰 DevOps & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🧪 Testing
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+</p>
+
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066B8?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
+</p>
+
+---
+
+## 🌍 Community Contributions
+- 🔗 [TopCode.vn](https://topcode.vn/thanh-vien/vo-61380.htm)
+- 🔗 [ShareCode.vn](https://sharecode.vn/thanh-vien/truong-259085.htm)
+
+---
+
+## 🌐 Languages
+- 🇻🇳 **Vietnamese** – Native
+- 🇬🇧 **English** – Professional
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5cjBoN210dmp5ZHhpdjVhZnluMHZ6eW1vZGQwZndidWd5bWp4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.gif" width="250" />
+  <img src="https://komarev.com/ghpvc/?username=truongraph&label=Visitors&color=blueviolet" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5cjBoN210dmp5ZHhpdjVhZnluMHZ6eW1vZGQwZndidWd5bWp4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.gif" width="300" />
 </p>
