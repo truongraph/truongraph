@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 About Me
+
 ✨ I'm a creative and passionate **Full Stack Developer** with over 6 years of experience in building user-centric web applications with seamless UX/UI.
 
 - 🔭 Currently working at **KMK TECHNOLOGY COMPANY**
@@ -23,6 +24,7 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.facebook.com/vtruong.it/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -49,9 +51,22 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foundation-000000?style=for-the-badge&logo=foundation&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
+
+### 🎨 Styling & UI Frameworks
+<p>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
@@ -59,6 +74,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### 🧩 Database & ORM
@@ -66,12 +82,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### 📦 CMS / eCommerce
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Shopify-96BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
 </p>
 
 ### 🎨 UX/UI Tools
@@ -96,23 +116,27 @@
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066B8?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 </p>
 
 ---
 
 ## 🌍 Community Contributions
+
 - 🔗 [TopCode.vn](https://topcode.vn/thanh-vien/vo-61380.htm)
 - 🔗 [ShareCode.vn](https://sharecode.vn/thanh-vien/truong-259085.htm)
 
 ---
 
 ## 🌐 Languages
-- 🇻🇳 **Vietnamese** – Native
-- 🇬🇧 **English** – Professional
+
+- 🇻🇳 **Vietnamese** – Native  
+- 🇬🇧 **English** – Professional  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=truongraph&label=Visitors&color=blueviolet" alt="Profile views" />
 </p>
