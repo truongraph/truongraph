@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Trường 👋</h1>
 
 <p align="center">
-  <img src="[https://www.votruong.info/perimg/me.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVhOHF4c3Fmdnl3bWRpNnd4enAzbzJkNmdyZXI4c2RkdzRuOG9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qIMZVXWJHQI0Qu3Pe9/giphy.gif)" width="120" alt="Trường's avatar" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVhOHF4c3Fmdnl3bWRpNnd4enAzbzJkNmdyZXI4c2RkdzRuOG9sdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qIMZVXWJHQI0Qu3Pe9/giphy.gif" width="120" alt="Trường's avatar" />
 </p>
 
 <p align="center">
