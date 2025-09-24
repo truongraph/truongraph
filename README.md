@@ -144,5 +144,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5cjBoN210dmp5ZHhpdjVhZnluMHZ6eW1vZGQwZndidWd5bWp4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/B6wdZEDP2TXRkA83o5/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" />
 </p>
