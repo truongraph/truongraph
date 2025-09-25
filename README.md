@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Trường</h1>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/qIMZVXWJHQI0Qu3Pe9/giphy.gif" width="120" alt="Trường's avatar" />
+  <img src="https://www.votruong.info/perimg/chibi.png" width="120" alt="Trường's avatar" />
 </p>
 
 <p align="center">
