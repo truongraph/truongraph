@@ -118,5 +118,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3YWpmcWl1d3o4dmUwMGltdHltZXk0c3FhdnVodnAwam9wcWFmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" />
 </p>
