@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Trường</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF1gysnPwNk9w/profile-displaybackgroundimage-shrink_350_1400/B56ZYi82XXGcAc-/0/1744343099301?e=1762992000&v=beta&t=U25AHMswnqmrWGp2FgsbPo8mVcCWKKOpLJfkEfOoeeY" width="100%" alt="Trường's avatar" />
+  <img src="https://www.votruong.info/perimg/chibi.png" width="120" alt="Trường's avatar" />
 </p>
 
 <p align="center">
@@ -33,7 +33,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF1gysnPwNk9w/profile-displaybackgroundimage-shrink_350_1400/B56ZYi82XXGcAc-/0/1744343099301?e=1762992000&v=beta&t=U25AHMswnqmrWGp2FgsbPo8mVcCWKKOpLJfkEfOoeeY" width="100%" alt="Trường's avatar" />
+</p>
 ## 🧠 Tech Stack
 
 ### 🖥️ Frontend
