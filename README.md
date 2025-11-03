@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Trường</h1>
 
 <p align="center">
-  <img src="https://www.votruong.info/perimg/chibi.png" width="120" alt="Trường's avatar" />
-</p>
-
-<p align="center">
   🌐 <a href="https://votruong.info" target="_blank"><strong>votruong.info</strong></a> &nbsp;|&nbsp;
   💼 <strong>Full Stack Developer</strong> &nbsp;|&nbsp;
   📍 Vietnam
