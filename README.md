@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi there, I'm Trường (Võ Trường)</h1>
+<h1 align="left">👋 Hi there, I'm Trường (Võ Trường)</h1>
 
-<p align="center">
+<p align="left">
   🌐 <a href="https://votruong.info" target="_blank"><strong>votruong.info</strong></a> &nbsp;|&nbsp;
   💼 Full Stack Developer &nbsp;|&nbsp;
   📍 Vietnam
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Creative+Full+Stack+Developer;6%2B+Years+Experience;High-performance+Web+Apps;Always+Learning+New+Things" />
 </p>
 
@@ -91,23 +91,23 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=truongraph&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=truongraph&theme=tokyonight" height="160" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongraph&layout=compact&theme=tokyonight" height="160" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=truongraph&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/vtruong.it/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://www.youtube.com/@truongbinnn" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -117,6 +117,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY3YWpmcWl1d3o4dmUwMGltdHltZXk0c3FhdnVodnAwam9wcWFmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" />
 </p>
