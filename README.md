@@ -128,7 +128,7 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>React</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next. js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
 <br><strong>Next.js</strong>
 </td>
 <td align="center" width="96">
@@ -136,7 +136,7 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Vue. js</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt. js" />
 <br><strong>Nuxt.js</strong>
 </td>
 </tr>
@@ -249,36 +249,36 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 </tr>
 <tr>
 <td align="center" width="96">
+<img src="https://www.greensock.com/uploads/monthly_2020_03/tweenmax.png. cf27916e926fbb328ff214f66b4c8429.png" width="48" height="48" alt="GSAP" />
+<br><strong>GSAP</strong>
+</td>
+<td align="center" width="96">
 <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" width="48" height="48" alt="Chakra UI" />
 <br><strong>Chakra UI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://ui.shadcn.com/favicon.ico" width="48" height="48" alt="Shadcn UI" />
+<br><strong>Shadcn UI</strong>
 </td>
 <td align="center" width="96">
 <img src="https://ui.mantine.dev/favicon.svg" width="48" height="48" alt="Mantine" />
 <br><strong>Mantine</strong>
 </td>
 <td align="center" width="96">
+<img src="https://www.radix-ui.com/favicon-32x32.png" width="48" height="48" alt="Radix UI" />
+<br><strong>Radix UI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://aceternity.com/logo.png" width="48" height="48" alt="Aceternity UI" />
+<br><strong>Aceternity</strong>
+</td>
+<td align="center" width="96">
+<img src="https://animate.style/img/favicon.ico" width="48" height="48" alt="Animate.css" />
+<br><strong>Animate.css</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=windicss" width="48" height="48" alt="WindiCSS" />
 <br><strong>WindiCSS</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.primefaces.org/wp-content/uploads/2019/12/primereact-logo.png" width="48" height="48" alt="PrimeReact" />
-<br><strong>PrimeReact</strong>
-</td>
-<td align="center" width="96">
-<img src="https://semantic-ui.com/images/logo.png" width="48" height="48" alt="Semantic UI" />
-<br><strong>Semantic UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://bulma.io/images/bulma-logo.png" width="48" height="48" alt="Bulma" />
-<br><strong>Bulma</strong>
-</td>
-<td align="center" width="96">
-<img src="https://assets.website-files.com/6009ec8cda7f305645c9d91b/6408f6e7b5811271dc883aa8_android-chrome-192x192.png" width="48" height="48" alt="DaisyUI" />
-<br><strong>DaisyUI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/postcss/postcss/main/logo.svg" width="48" height="48" alt="PostCSS" />
-<br><strong>PostCSS</strong>
 </td>
 </tr>
 </table>
@@ -343,7 +343,7 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br><strong>Spring Boot</strong>
+<br><strong>Spring</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
@@ -364,28 +364,28 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>GraphQL</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="48" height="48" alt="Socket.io" />
-<br><strong>Socket.io</strong>
+<img src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" width="48" height="48" alt="REST API" />
+<br><strong>REST API</strong>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.worldvectorlogo.com/logos/swagger-1.svg" width="48" height="48" alt="Swagger" />
 <br><strong>Swagger</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="48" height="48" alt="Socket.io" />
+<br><strong>Socket. io</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/insomnia.svg" width="48" height="48" alt="Insomnia" />
-<br><strong>Insomnia</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="48" height="48" alt="JWT" />
-<br><strong>JWT</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ" />
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
 <br><strong>RabbitMQ</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
+<br><strong>Kafka</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br><strong>Nginx</strong>
 </td>
 </tr>
 </table>
@@ -419,12 +419,12 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Android</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" width="48" height="48" alt="iOS" />
-<br><strong>iOS</strong>
+<img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="48" height="48" alt="Ionic" />
+<br><strong>Ionic</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/expo/expo-icon.svg" width="48" height="48" alt="Expo" />
-<br><strong>Expo</strong>
+<img src="https://www.svgrepo.com/show/373924/pwa.svg" width="48" height="48" alt="PWA" />
+<br><strong>PWA</strong>
 </td>
 </tr>
 </table>
@@ -492,11 +492,11 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Neo4j</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48" height="48" alt="Oracle" />
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="48" height="48" alt="Oracle" />
 <br><strong>Oracle</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="48" height="48" alt="SQL Server" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
 <br><strong>SQL Server</strong>
 </td>
 </tr>
@@ -575,36 +575,36 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 </tr>
 <tr>
 <td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" height="48" alt="ELK Stack" />
+<br><strong>ELK Stack</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="48" height="48" alt="Datadog" />
+<br><strong>Datadog</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/new_relic/new_relic-icon.svg" width="48" height="48" alt="New Relic" />
+<br><strong>New Relic</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" width="48" height="48" alt="Sentry" />
+<br><strong>Sentry</strong>
+</td>
+<td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="48" height="48" alt="Vagrant" />
 <br><strong>Vagrant</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" width="48" height="48" alt="VMware" />
-<br><strong>VMware</strong>
+<img src="https://cdn.worldvectorlogo.com/logos/traefik.svg" width="48" height="48" alt="Traefik" />
+<br><strong>Traefik</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="48" height="48" alt="Travis CI" />
-<br><strong>Travis CI</strong>
+<img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" width="48" height="48" alt="Consul" />
+<br><strong>Consul</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/bamboo-1.svg" width="48" height="48" alt="Bamboo" />
-<br><strong>Bamboo</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="48" height="48" alt="Kibana" />
-<br><strong>Kibana</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="48" height="48" alt="Datadog" />
-<br><strong>Datadog</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/new-relic-1.svg" width="48" height="48" alt="New Relic" />
-<br><strong>New Relic</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/sentry/sentry-icon.svg" width="48" height="48" alt="Sentry" />
-<br><strong>Sentry</strong>
+<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon. svg" width="48" height="48" alt="Vault" />
+<br><strong>Vault</strong>
 </td>
 </tr>
 </table>
@@ -618,31 +618,31 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Power BI</strong>
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Power Automate" />
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Power Automate" />
 <br><strong>Automate</strong>
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Power Apps" />
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Power Apps" />
 <br><strong>Power Apps</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" width="48" height="48" alt="SharePoint" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-1.svg" width="48" height="48" alt="SharePoint" />
 <br><strong>SharePoint</strong>
 </td>
 <td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="48" height="48" alt="Teams" />
+<img src="https://img.icons8.com/color/48/microsoft-teams.png" width="48" height="48" alt="Teams" />
 <br><strong>Teams</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="48" height="48" alt="Excel" />
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel" />
 <br><strong>Excel VBA</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-365.svg" width="48" height="48" alt="Microsoft 365" />
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Microsoft 365" />
 <br><strong>M365</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon. svg" width="48" height="48" alt="Azure AD" />
+<img src="https://img.icons8.com/color/48/azure-1.png" width="48" height="48" alt="Azure AD" />
 <br><strong>Azure AD</strong>
 </td>
 </tr>
@@ -747,6 +747,10 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Bitbucket</strong>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
 <br><strong>Notion</strong>
 </td>
@@ -758,10 +762,6 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira" />
 <br><strong>Jira</strong>
 </td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/trello/trello-icon. svg" width="48" height="48" alt="Trello" />
-<br><strong>Trello</strong>
-</td>
 </tr>
 </table>
 
@@ -771,7 +771,7 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 
 <div align="center">
 
-## 📊 Weekly Development Stats
+## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -792,22 +792,30 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=truongraph&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=ffffff&sideNums=ffffff&dates=8B8B8B" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=truongraph&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=truongraph&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&custom_title=GitHub%20Statistics" />
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=truongraph&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&card_width=400" />
+</td>
+</tr>
+</table>
 
-</div>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/? user=truongraph&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=ffffff&sideNums=ffffff&dates=8B8B8B" />
 
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=truongraph&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=truongraph&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
+
 </div>
 
 <br/>
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
   
-[![Truong's github activity graph](https://github-readme-activity-graph.vercel.app/graph? username=truongraph&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/truongraph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=truongraph&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -820,13 +828,13 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=truongraph&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truongraph&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=truongraph&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truongraph&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel. app/api/cards/stats?username=truongraph&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongraph&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=truongraph&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongraph&theme=github_dark" />
 </div>
 
 </details>
@@ -864,9 +872,8 @@ Key Achievements:
   👥 Mentored and trained 20+ junior developers
   📈 Increased team productivity by 40% through automation
   🏆 Recognized as "Developer of the Year" 2023
-  💡 Implemented microservices for 10+ enterprise clients
+  💡 Filed 3 technical patents for innovative solutions
   🌟 Achieved 99.9% uptime for critical applications
-  🔒 Established security best practices across all projects
 ```
 
 </div>
@@ -886,7 +893,7 @@ Key Achievements:
 **Startup Company** | *2017 - 2018*
 
 - 💻 Developed features for SaaS platform
-- 🧪 Wrote comprehensive unit and integration tests
+- 🧪 Wrote unit and integration tests
 - 🤝 Collaborated with cross-functional teams
 - 📈 Optimized database queries and API performance
 
@@ -904,27 +911,27 @@ Key Achievements:
 <tr>
 <td align="center" width="300">
 <img src="https://img.icons8.com/fluency/96/code. png" width="60" height="60" alt="Community"/>
-<br/><strong>ShareCode. vn</strong>
+<br/><strong>Premium Resources Platform</strong>
+<br/>
+<em>Community Leader</em>
+<br/>
+<img src="https://img.shields.io/badge/Members-10K+-FF6B6B?style=flat-square"/>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/share.png" width="60" height="60" alt="ShareCode"/>
+<br/><strong>Code Sharing Platform</strong>
 <br/>
 <em>Core Contributor</em>
 <br/>
-<img src="https://img.shields.io/badge/Code_Sharing-5K+_Projects-4ECDC4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Projects-5K+-4ECDC4?style=flat-square"/>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/student-male. png" width="60" height="60" alt="HoTroDoAn. vn"/>
-<br/><strong>HoTroDoAn.vn</strong>
+<img src="https://img.icons8.com/fluency/96/student-male.png" width="60" height="60" alt="Mentorship"/>
+<br/><strong>Student Support Platform</strong>
 <br/>
 <em>Technical Mentor</em>
 <br/>
 <img src="https://img.shields.io/badge/Students_Helped-500+-36BCF7?style=flat-square"/>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/github.png" width="60" height="60" alt="GitHub"/>
-<br/><strong>Open Source</strong>
-<br/>
-<em>Active Contributor</em>
-<br/>
-<img src="https://img.shields.io/badge/Contributions-100+-FF6B6B?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -973,7 +980,7 @@ mindmap
       Angular
       TypeScript
     Backend
-      Node. js/NestJS
+      Node.js/NestJS
       PHP/Laravel
       . NET Core
       Python/Django
@@ -986,7 +993,7 @@ mindmap
       Docker
       CI/CD
       AWS/Azure/GCP
-      GitHub Actions
+      Cloud Platforms
     Soft Skills
       Problem Solving
       Team Leadership
@@ -1019,7 +1026,7 @@ mindmap
 <a href="https://votruong.info" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Website-votruong.info-4A5DFF?style=for-the-badge&logoColor=white" />
 </a>
-<a href="mailto:truong. vd2000@gmail.com">
+<a href="mailto:truong.vd2000@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank">
@@ -1092,4 +1099,4 @@ If you find my projects helpful, consider buying me a coffee! ☕
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
