@@ -77,7 +77,7 @@ const truong = {
     motto: "✨ Transforming ideas into elegant, scalable solutions"
 };
 
-console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.length} exciting areas!`);
+console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.length} exciting areas! `);
 ```
 
 <br clear="right"/>
@@ -128,15 +128,15 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>React</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next. js" />
 <br><strong>Next.js</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-<br><strong>Vue.js</strong>
+<br><strong>Vue. js</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt. js" />
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
 <br><strong>Nuxt.js</strong>
 </td>
 </tr>
@@ -249,36 +249,36 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 </tr>
 <tr>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="48" height="48" alt="GSAP" />
-<br><strong>GSAP</strong>
-</td>
-<td align="center" width="96">
 <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" width="48" height="48" alt="Chakra UI" />
 <br><strong>Chakra UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/shadcnui.svg" width="48" height="48" alt="Shadcn UI" />
-<br><strong>Shadcn UI</strong>
 </td>
 <td align="center" width="96">
 <img src="https://ui.mantine.dev/favicon.svg" width="48" height="48" alt="Mantine" />
 <br><strong>Mantine</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.radix-ui.com/favicon.ico" width="48" height="48" alt="Radix UI" />
-<br><strong>Radix UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/139895814" width="48" height="48" alt="Aceternity UI" />
-<br><strong>Aceternity</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/animate/animate-icon.svg" width="48" height="48" alt="Animate. css" />
-<br><strong>Animate.css</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=windicss" width="48" height="48" alt="WindiCSS" />
 <br><strong>WindiCSS</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.primefaces.org/wp-content/uploads/2019/12/primereact-logo.png" width="48" height="48" alt="PrimeReact" />
+<br><strong>PrimeReact</strong>
+</td>
+<td align="center" width="96">
+<img src="https://semantic-ui.com/images/logo.png" width="48" height="48" alt="Semantic UI" />
+<br><strong>Semantic UI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://bulma.io/images/bulma-logo.png" width="48" height="48" alt="Bulma" />
+<br><strong>Bulma</strong>
+</td>
+<td align="center" width="96">
+<img src="https://assets.website-files.com/6009ec8cda7f305645c9d91b/6408f6e7b5811271dc883aa8_android-chrome-192x192.png" width="48" height="48" alt="DaisyUI" />
+<br><strong>DaisyUI</strong>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/postcss/postcss/main/logo.svg" width="48" height="48" alt="PostCSS" />
+<br><strong>PostCSS</strong>
 </td>
 </tr>
 </table>
@@ -304,10 +304,6 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Bun</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=deno" width="48" height="48" alt="Deno" />
-<br><strong>Deno</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
 <br><strong>PHP</strong>
 </td>
@@ -319,12 +315,12 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony" />
 <br><strong>Symfony</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
 <br><strong>.NET Core</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
 <br><strong>C#</strong>
@@ -338,10 +334,6 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Django</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-<br><strong>Flask</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
 <br><strong>FastAPI</strong>
 </td>
@@ -351,41 +343,49 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br><strong>Spring</strong>
+<br><strong>Spring Boot</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
 <br><strong>Go</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-<br><strong>Ruby</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-<br><strong>Rails</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-<br><strong>Rust</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
 <br><strong>C++</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
-<br><strong>Scala</strong>
-</td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
 <br><strong>Kotlin</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=elixir" width="48" height="48" alt="Elixir" />
-<br><strong>Elixir</strong>
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+<br><strong>GraphQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="48" height="48" alt="Socket.io" />
+<br><strong>Socket.io</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/swagger-1.svg" width="48" height="48" alt="Swagger" />
+<br><strong>Swagger</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/insomnia.svg" width="48" height="48" alt="Insomnia" />
+<br><strong>Insomnia</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="48" height="48" alt="JWT" />
+<br><strong>JWT</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="48" height="48" alt="RabbitMQ" />
+<br><strong>RabbitMQ</strong>
 </td>
 </tr>
 </table>
@@ -419,12 +419,12 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Android</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
-<br><strong>Xcode</strong>
+<img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" width="48" height="48" alt="iOS" />
+<br><strong>iOS</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/ionic-icon.svg" width="48" height="48" alt="Ionic" />
-<br><strong>Ionic</strong>
+<img src="https://www.vectorlogo.zone/logos/expo/expo-icon.svg" width="48" height="48" alt="Expo" />
+<br><strong>Expo</strong>
 </td>
 </tr>
 </table>
@@ -476,10 +476,6 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Sequelize</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/typeorm.svg" width="48" height="48" alt="TypeORM" />
-<br><strong>TypeORM</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br><strong>Firebase</strong>
 </td>
@@ -492,12 +488,16 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>MariaDB</strong>
 </td>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" width="48" height="48" alt="Couchbase" />
-<br><strong>Couchbase</strong>
-</td>
-<td align="center" width="96">
 <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width="48" height="48" alt="Neo4j" />
 <br><strong>Neo4j</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48" height="48" alt="Oracle" />
+<br><strong>Oracle</strong>
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="48" height="48" alt="SQL Server" />
+<br><strong>SQL Server</strong>
 </td>
 </tr>
 </table>
@@ -509,10 +509,6 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br><strong>Docker</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-<br><strong>Kubernetes</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
@@ -538,12 +534,12 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
 <br><strong>Heroku</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
 <br><strong>Actions</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
 <br><strong>Jenkins</strong>
@@ -569,154 +565,46 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Terraform</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
-<br><strong>Ansible</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
 <img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" width="48" height="48" alt="Cloudflare" />
 <br><strong>Cloudflare</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/digital_ocean/digital_ocean-icon. svg" width="48" height="48" alt="DigitalOcean" />
-<br><strong>DigitalOcean</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/railway.svg" width="48" height="48" alt="Railway" />
-<br><strong>Railway</strong>
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/25003669" width="48" height="48" alt="Render" />
-<br><strong>Render</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="48" height="48" alt="Prometheus" />
-<br><strong>Prometheus</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon. svg" width="48" height="48" alt="Grafana" />
-<br><strong>Grafana</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="48" height="48" alt="Kibana" />
-<br><strong>Kibana</strong>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.worldvectorlogo.com/logos/apache-2.svg" width="48" height="48" alt="Apache" />
 <br><strong>Apache</strong>
 </td>
 </tr>
-</table>
-
-### 🧪 Testing & Quality Assurance
-
-<table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-<br><strong>Jest</strong>
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="48" height="48" alt="Vagrant" />
+<br><strong>Vagrant</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" />
-<br><strong>Vitest</strong>
+<img src="https://cdn.worldvectorlogo.com/logos/vmware-1.svg" width="48" height="48" alt="VMware" />
+<br><strong>VMware</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
-<br><strong>Cypress</strong>
+<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="48" height="48" alt="Travis CI" />
+<br><strong>Travis CI</strong>
 </td>
 <td align="center" width="96">
-<img src="https://playwright.dev/img/playwright-logo. svg" width="48" height="48" alt="Playwright" />
-<br><strong>Playwright</strong>
+<img src="https://cdn.worldvectorlogo.com/logos/bamboo-1.svg" width="48" height="48" alt="Bamboo" />
+<br><strong>Bamboo</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
-<br><strong>Selenium</strong>
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="48" height="48" alt="Kibana" />
+<br><strong>Kibana</strong>
 </td>
 <td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/8770005" width="48" height="48" alt="Testing Library" />
-<br><strong>Testing Lib</strong>
+<img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" width="48" height="48" alt="Datadog" />
+<br><strong>Datadog</strong>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" width="48" height="48" alt="Mocha" />
-<br><strong>Mocha</strong>
+<img src="https://cdn.worldvectorlogo.com/logos/new-relic-1.svg" width="48" height="48" alt="New Relic" />
+<br><strong>New Relic</strong>
 </td>
 <td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/874086" width="48" height="48" alt="Jasmine" />
-<br><strong>Jasmine</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" width="48" height="48" alt="ESLint" />
-<br><strong>ESLint</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" width="48" height="48" alt="Prettier" />
-<br><strong>Prettier</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="48" height="48" alt="Storybook" />
-<br><strong>Storybook</strong>
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/49996085" width="48" height="48" alt="Husky" />
-<br><strong>Husky</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="48" height="48" alt="SonarQube" />
-<br><strong>SonarQube</strong>
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/15277305" width="48" height="48" alt="K6" />
-<br><strong>K6</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon. svg" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/insomnia.svg" width="48" height="48" alt="Insomnia" />
-<br><strong>Insomnia</strong>
-</td>
-</tr>
-</table>
-
-### 🤖 AI/ML & Data Science
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br><strong>TensorFlow</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-<br><strong>PyTorch</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="48" height="48" alt="NumPy" />
-<br><strong>NumPy</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/pandas. svg" width="48" height="48" alt="Pandas" />
-<br><strong>Pandas</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/opencv-1.svg" width="48" height="48" alt="OpenCV" />
-<br><strong>OpenCV</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Jupyter" />
-<br><strong>Jupyter</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="48" height="48" alt="LangChain" />
-<br><strong>LangChain</strong>
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/14957082" width="48" height="48" alt="Scikit-learn" />
-<br><strong>Scikit-learn</strong>
+<img src="https://www.vectorlogo.zone/logos/sentry/sentry-icon.svg" width="48" height="48" alt="Sentry" />
+<br><strong>Sentry</strong>
 </td>
 </tr>
 </table>
@@ -726,35 +614,35 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon. svg" width="48" height="48" alt="Power BI" />
 <br><strong>Power BI</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-power-automate.png" width="48" height="48" alt="Power Automate" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Power Automate" />
 <br><strong>Automate</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/fluency/48/microsoft-power-apps-2020.png" width="48" height="48" alt="Power Apps" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Power Apps" />
 <br><strong>Power Apps</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/sharepoint.png" width="48" height="48" alt="SharePoint" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" width="48" height="48" alt="SharePoint" />
 <br><strong>SharePoint</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-teams.png" width="48" height="48" alt="Teams" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" width="48" height="48" alt="Teams" />
 <br><strong>Teams</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="48" height="48" alt="Excel" />
 <br><strong>Excel VBA</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/fluency/48/microsoft-365. png" width="48" height="48" alt="Microsoft 365" />
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-365.svg" width="48" height="48" alt="Microsoft 365" />
 <br><strong>M365</strong>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/azure-1.png" width="48" height="48" alt="Azure AD" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon. svg" width="48" height="48" alt="Azure AD" />
 <br><strong>Azure AD</strong>
 </td>
 </tr>
@@ -859,10 +747,6 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <br><strong>Bitbucket</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
 <br><strong>Notion</strong>
 </td>
@@ -874,6 +758,10 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira" />
 <br><strong>Jira</strong>
 </td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/trello/trello-icon. svg" width="48" height="48" alt="Trello" />
+<br><strong>Trello</strong>
+</td>
 </tr>
 </table>
 
@@ -883,7 +771,7 @@ console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.l
 
 <div align="center">
 
-## 📊 Code Time Stats
+## 📊 Weekly Development Stats
 
 <!--START_SECTION:waka-->
 ```text
@@ -900,15 +788,13 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=truongraph&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&custom_title=GitHub%20Statistics"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongraph&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&card_width=400"/>
-</div>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=truongraph&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=ffffff&sideNums=ffffff&dates=8B8B8B" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=truongraph&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=truongraph&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=ffffff&sideNums=ffffff&dates=8B8B8B" />
 </div>
 
 <div align="center">
@@ -921,7 +807,7 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![Truong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=truongraph&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/truongraph)
+[![Truong's github activity graph](https://github-readme-activity-graph.vercel.app/graph? username=truongraph&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/truongraph)
 
 </div>
 
@@ -934,13 +820,13 @@ Other        48 mins         █░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=truongraph&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truongraph&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=truongraph&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truongraph&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=truongraph&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongraph&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel. app/api/cards/stats?username=truongraph&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongraph&theme=github_dark" />
 </div>
 
 </details>
@@ -978,8 +864,9 @@ Key Achievements:
   👥 Mentored and trained 20+ junior developers
   📈 Increased team productivity by 40% through automation
   🏆 Recognized as "Developer of the Year" 2023
-  💡 Filed 3 technical patents for innovative solutions
+  💡 Implemented microservices for 10+ enterprise clients
   🌟 Achieved 99.9% uptime for critical applications
+  🔒 Established security best practices across all projects
 ```
 
 </div>
@@ -999,124 +886,9 @@ Key Achievements:
 **Startup Company** | *2017 - 2018*
 
 - 💻 Developed features for SaaS platform
-- 🧪 Wrote unit and integration tests
+- 🧪 Wrote comprehensive unit and integration tests
 - 🤝 Collaborated with cross-functional teams
 - 📈 Optimized database queries and API performance
-
-</details>
-
-<br/>
-
-## 🎓 Education & Certifications
-
-<details>
-<summary><b>📜 Click to view credentials</b></summary>
-
-<br/>
-
-### 🎓 Education
-
-**Bachelor of Computer Science**  
-University of Technology, Ho Chi Minh City | *2014 - 2018*
-- 🏆 GPA: 3.8/4.0
-- 🥇 Dean's List all semesters
-- 👨‍💻 President of Computer Science Club
-
-### 🏅 Professional Certifications
-
-<div align="left">
-
-| Certification | Provider | Year | Status |
-|--------------|----------|------|--------|
-| 🏆 AWS Certified Solutions Architect | Amazon Web Services | 2023 | ✅ Active |
-| 🎯 Microsoft Azure Developer Associate | Microsoft | 2023 | ✅ Active |
-| 🚀 Google Cloud Professional Architect | Google Cloud | 2022 | ✅ Active |
-| 🐳 Kubernetes Administrator (CKA) | CNCF | 2022 | ✅ Active |
-| ⚛️ Meta Front-End Developer Professional | Meta | 2021 | ✅ Active |
-| 🔒 Certified Ethical Hacker (CEH) | EC-Council | 2021 | ✅ Active |
-| 📊 Power BI Data Analyst Associate | Microsoft | 2020 | ✅ Active |
-
-</div>
-
-### 📚 Online Courses & Specializations
-
-- ✅ Full Stack Web Development Specialization - Coursera
-- ✅ Machine Learning Engineering - DeepLearning.AI
-- ✅ System Design and Architecture - Educative
-- ✅ Advanced React Patterns - Frontend Masters
-- ✅ Microservices with Node.js and React - Udemy
-
-</details>
-
-<br/>
-
-## 🌟 Featured Projects & Portfolio
-
-<div align="center">
-
-### 🎯 Open Source Projects
-
-<a href="https://github.com/truongraph">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=truongraph&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&show_owner=true" />
-</a>
-<a href="https://github.com/truongraph">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=truongraph&repo=ecommerce-platform&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&show_owner=true" />
-</a>
-
-</div>
-
-<details>
-<summary><b>🚀 View More Projects</b></summary>
-
-<br/>
-
-### 💼 Enterprise Applications
-
-**🏢 Business Process Automation Platform**
-- 🎯 Automated 80% of manual workflows
-- 🚀 Built with React, Node.js, PostgreSQL
-- 🔧 Integrated with Microsoft Power Platform
-- 📊 Saved 200+ hours/month for the client
-
-**📊 Real-time Analytics Dashboard**
-- 📈 Processing 1M+ events per day
-- ⚡ Built with Next.js, FastAPI, Redis
-- 🎨 Beautiful data visualizations with D3.js
-- 🔥 99.99% uptime guarantee
-
-**🛒 E-commerce Marketplace**
-- 🌐 Serving 100K+ active users
-- 💳 Integrated multiple payment gateways
-- 📱 Progressive Web App (PWA)
-- 🚀 SEO optimized with Next.js
-
-### 🎨 Creative Projects
-
-**🌟 Interactive Portfolio Generator**
-- ✨ AI-powered content generation
-- 🎨 Beautiful templates and themes
-- 📤 One-click deployment to multiple platforms
-- 🔧 Tech:  React, TailwindCSS, OpenAI API
-
-**🎮 Real-time Multiplayer Game**
-- 🎯 WebSocket-based real-time communication
-- 🎨 Canvas API for game rendering
-- 🏆 Leaderboard and achievements system
-- 🔧 Tech: Node.js, Socket.io, MongoDB
-
-### 🤖 AI/ML Projects
-
-**🧠 AI Chatbot for Customer Support**
-- 💬 Natural language processing
-- 🤖 Context-aware responses
-- 📊 Reduced support tickets by 60%
-- 🔧 Tech: Python, TensorFlow, LangChain
-
-**📸 Image Recognition System**
-- 🎯 99% accuracy on test dataset
-- ⚡ Real-time processing
-- 📱 Mobile-friendly API
-- 🔧 Tech: PyTorch, FastAPI, Docker
 
 </details>
 
@@ -1131,28 +903,28 @@ University of Technology, Ho Chi Minh City | *2014 - 2018*
 <table>
 <tr>
 <td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/code. png" width="60" height="60" alt="TopCode. vn"/>
-<br/><strong>TopCode.vn</strong>
-<br/>
-<em>Community Leader</em>
-<br/>
-<img src="https://img.shields.io/badge/Premium_Resources-10K+_Members-FF6B6B?style=flat-square"/>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/share.png" width="60" height="60" alt="ShareCode.vn"/>
-<br/><strong>ShareCode.vn</strong>
+<img src="https://img.icons8.com/fluency/96/code. png" width="60" height="60" alt="Community"/>
+<br/><strong>ShareCode. vn</strong>
 <br/>
 <em>Core Contributor</em>
 <br/>
 <img src="https://img.shields.io/badge/Code_Sharing-5K+_Projects-4ECDC4?style=flat-square"/>
 </td>
 <td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/student-male.png" width="60" height="60" alt="HoTroDoAn.vn"/>
+<img src="https://img.icons8.com/fluency/96/student-male. png" width="60" height="60" alt="HoTroDoAn. vn"/>
 <br/><strong>HoTroDoAn.vn</strong>
 <br/>
 <em>Technical Mentor</em>
 <br/>
 <img src="https://img.shields.io/badge/Students_Helped-500+-36BCF7?style=flat-square"/>
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/fluency/96/github.png" width="60" height="60" alt="GitHub"/>
+<br/><strong>Open Source</strong>
+<br/>
+<em>Active Contributor</em>
+<br/>
+<img src="https://img.shields.io/badge/Contributions-100+-FF6B6B?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -1187,8 +959,137 @@ Contribution Statistics:
 
 <br/>
 
-## 📚 Latest Blog Posts & Articles
+## 🎓 Skills & Expertise
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
+```mermaid
+mindmap
+  root((Full Stack
+    Development))
+    Frontend
+      React/Next.js
+      Vue/Nuxt. js
+      Angular
+      TypeScript
+    Backend
+      Node. js/NestJS
+      PHP/Laravel
+      . NET Core
+      Python/Django
+    Database
+      PostgreSQL
+      MongoDB
+      Redis
+      Prisma ORM
+    DevOps
+      Docker
+      CI/CD
+      AWS/Azure/GCP
+      GitHub Actions
+    Soft Skills
+      Problem Solving
+      Team Leadership
+      Agile/Scrum
+      Communication
+```
+
+</div>
+
+<br/>
+
+## 🗣️ Languages
+
+<div align="center">
+
+| Language | Proficiency | Usage |
+|----------|-------------|-------|
+| 🇻🇳 **Vietnamese** | Native | Daily communication, documentation |
+| 🇬🇧 **English** | Professional | Technical docs, international collaboration |
+| 🇯🇵 **Japanese** | Basic | Reading technical documentation |
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://votruong.info" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Website-votruong.info-4A5DFF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:truong. vd2000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/vtruong. it/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@truongbinnn" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://twitter.com/truongraph" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://dev.to/truongraph" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=radical)
+
+</div>
+
+<br/>
+
+## 🎵 Spotify Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel. app/api/view?uid=31zq7qsydbqxauy52klxjqfxrsoi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=36bcf7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zq7qsydbqxauy52klxjqfxrsoi&redirect=true)
+
+</div>
+
+<br/>
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider buying me a coffee! ☕
+
+<a href="https://www.buymeacoffee.com/truongvo" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br/>
+
+### Show some ❤️ by starring some of my repositories! 
+
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/truongraph/count.svg)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
