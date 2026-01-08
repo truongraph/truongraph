@@ -1,1102 +1,663 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Võ%20Trường&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;6%2B+Years+of+Experience+%F0%9F%92%BC;Passionate+Problem+Solver+%F0%9F%A7%A0;Building+Scalable+Solutions+%E2%9A%A1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;AI%2FML+Integration+Specialist+%F0%9F%A4%96)](https://git.io/typing-svg)
-  
-  <br/>
-  
-  <a href="https://votruong.info" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-votruong.info-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:truong.vd2000@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-truong.vd2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <br/><br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=truongraph&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
-  ![GitHub followers](https://img.shields.io/github/followers/truongraph?style=for-the-badge&color=36BCF7&labelColor=0D1117)
-  ![GitHub Stars](https://img.shields.io/github/stars/truongraph?style=for-the-badge&color=36BCF7&labelColor=0D1117)
-  
-</div>
+# 🌟 Welcome to My Digital Universe 🌟
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=👋+Hi%2C+I'm+Võ+Trường;🚀+Full+Stack+Developer+%26+Solution+Architect;💡+Turning+Coffee+into+Code+Since+2017;🌏+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</picture>
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██╗   ██╗ ██████╗     ████████╗██████╗ ██╗   ██�� ██████╗ ███╗║
+║   ██║   ██║██╔═══██╗    ╚══██╔══╝██╔══██╗██║   ██║██╔═══██╗████║║
+║   ██║   ██║██║   ██║       ██║   ██████╔╝██║   ██║██║   ██║██╔█║║
+║   ╚██╗ ██╔╝██║   ██║       ██║   ██╔══██╗██║   ██║██║   ██║██║║║
+║    ╚████╔╝ ╚██████╔╝       ██║   ██║  ██║╚██████╔╝╚██████╔╝██║║║
+║     ╚═══╝   ╚═════╝        ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝╚║
+║                                                                  ║
+║              🎯 Crafting Digital Experiences Since 2017          ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-## 🎯 About Me
+<br/>
 
-```typescript
-const truong = {
-    name: "Võ Trường",
-    title: "Full Stack Developer & Solution Architect",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    company: "KMK Technology Company",
-    experience: "6+ years",
-    timezone: "GMT+7",
-    
-    currentFocus: [
-        "🎨 Advanced Animations & Interactions",
-        "🏗️ Microservices Architecture",
-        "🤖 Business Process Automation",
-        "🧠 AI/ML Integration & LLM Applications",
-        "⚡ Performance Optimization & Scalability",
-        "☁️ Cloud-Native Development",
-        "🔒 Security Best Practices"
-    ],
-    
-    architecture: [
-        "Clean Architecture",
-        "Domain-Driven Design (DDD)",
-        "Event-Driven Architecture",
-        "Serverless Architecture",
-        "JAMstack",
-        "Micro-Frontends"
-    ],
-    
-    interests: [
-        "💎 Clean Code & Best Practices",
-        "🎨 UI/UX Design Systems",
-        "☁️ Cloud Native Applications",
-        "🌍 Open Source Contribution",
-        "📚 Technical Writing & Blogging",
-        "🎓 Mentoring & Knowledge Sharing"
-    ],
-    
-    lifePhilosophy: "Continuous learning and improvement",
-    motto: "✨ Transforming ideas into elegant, scalable solutions"
-};
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votruong.info)
+[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truong.vd2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/)
+[![YouTube](https://img.shields.io/badge/📺_YouTube-FF4757?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@truongbinnn)
 
-console.log(`💡 ${truong.name} is currently working on ${truong.currentFocus.length} exciting areas! `);
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=truongraph&style=for-the-badge&color=00D9FF&label=VISITORS)
+![GitHub Followers](https://img.shields.io/github/followers/truongraph?style=for-the-badge&color=00D9FF&logo=github)
+![Years Badge](https://badges.pufler.dev/years/truongraph?style=for-the-badge&color=00D9FF)
+
+</div>
+
+---
+
+<br/>
+
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+
+## 🎭 About Me
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Võ Trường";
+    this.role = "Full Stack Developer & Solution Architect";
+    this.location = "🇻🇳 Ho Chi Minh City, Vietnam";
+    this.company = "KMK Technology Company";
+    this.experience = "6+ years";
+    this.workingHours = "09:00 - 18:00 GMT+7";
+    this.sleepingHours = "Maybe never?  😅";
+  }
+
+  getCurrentStatus() {
+    return {
+      coding: "🔥 In the zone",
+      learning: "📚 Always",
+      coffee: "☕ Essential fuel",
+      music: "🎵 Lofi beats",
+      mood: "😎 Ready to build"
+    };
+  }
+
+  getSkillLevel(skill) {
+    const skills = {
+      "Problem Solving": "⭐⭐⭐⭐⭐",
+      "Code Quality": "⭐⭐⭐⭐⭐",
+      "Team Work": "⭐⭐⭐⭐⭐",
+      "Coffee Making": "⭐⭐⭐⭐⭐",
+      "Debugging":  "⭐⭐⭐⭐⭐"
+    };
+    return skills[skill] || "Learning... ";
+  }
+
+  sayHi() {
+    console.log("Thanks for dropping by!  Let's build something amazing together!  🚀");
+  }
+}
+
+const truong = new Developer();
+truong.sayHi();
 ```
 
 <br clear="right"/>
 
-<div align="center">
-
-### 🏆 Achievements & Highlights
-
-| 🎯 Milestone | 📊 Count | 🌟 Description |
-|-------------|----------|---------------|
-| **Projects Delivered** | 50+ | Production-ready applications across various domains |
-| **Performance Boost** | Up to 70% | Optimized application speed and efficiency |
-| **Code Reviews** | 500+ | Ensuring code quality and best practices |
-| **Mentored Developers** | 20+ | Helping junior devs grow their skills |
-| **Open Source Contributions** | 100+ | Contributing to the community |
-| **Technical Articles** | 30+ | Sharing knowledge through blogs |
-
-</div>
+---
 
 <br/>
 
-## 🛠️ Technology Arsenal
+## 🎯 Quick Stats
 
 <div align="center">
 
-### 🎨 Frontend Development
-
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
+<td align="center" width="200">
+<img src="https://img.icons8.com/dusk/200/000000/code. png" width="80"/>
+<br/><b>50+</b><br/>Projects Delivered
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
+<td align="center" width="200">
+<img src="https://img.icons8.com/dusk/200/000000/rocket.png" width="80"/>
+<br/><b>70%</b><br/>Performance Boost
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
+<td align="center" width="200">
+<img src="https://img.icons8.com/dusk/200/000000/conference-call.png" width="80"/>
+<br/><b>20+</b><br/>Developers Mentored
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><strong>Next.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-<br><strong>Vue. js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt. js" />
-<br><strong>Nuxt.js</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-<br><strong>Angular</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-<br><strong>Svelte</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=remix" width="48" height="48" alt="Remix" />
-<br><strong>Remix</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
-<br><strong>Astro</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br><strong>Redux</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br><strong>Vite</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-<br><strong>Webpack</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-<br><strong>Three.js</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-<br><strong>jQuery</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
-<br><strong>Babel</strong>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-<br><strong>GraphQL</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" alt="Apollo" />
-<br><strong>Apollo</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
-<br><strong>Electron</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gatsby" width="48" height="48" alt="Gatsby" />
-<br><strong>Gatsby</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=alpinejs" width="48" height="48" alt="Alpine.js" />
-<br><strong>Alpine.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=solidjs" width="48" height="48" alt="Solid.js" />
-<br><strong>Solid.js</strong>
+<td align="center" width="200">
+<img src="https://img.icons8.com/dusk/200/000000/cafe.png" width="80"/>
+<br/><b>∞</b><br/>Cups of Coffee
 </td>
 </tr>
 </table>
 
-### 🎨 Styling & UI Frameworks
+</div>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-<br><strong>Tailwind</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-<br><strong>Sass</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=less" width="48" height="48" alt="Less" />
-<br><strong>Less</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="Styled Components" />
-<br><strong>Styled Comp</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
-<br><strong>Material UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48" height="48" alt="Ant Design" />
-<br><strong>Ant Design</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="48" height="48" alt="Framer Motion" />
-<br><strong>Framer</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://www.greensock.com/uploads/monthly_2020_03/tweenmax.png. cf27916e926fbb328ff214f66b4c8429.png" width="48" height="48" alt="GSAP" />
-<br><strong>GSAP</strong>
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" width="48" height="48" alt="Chakra UI" />
-<br><strong>Chakra UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://ui.shadcn.com/favicon.ico" width="48" height="48" alt="Shadcn UI" />
-<br><strong>Shadcn UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://ui.mantine.dev/favicon.svg" width="48" height="48" alt="Mantine" />
-<br><strong>Mantine</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.radix-ui.com/favicon-32x32.png" width="48" height="48" alt="Radix UI" />
-<br><strong>Radix UI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://aceternity.com/logo.png" width="48" height="48" alt="Aceternity UI" />
-<br><strong>Aceternity</strong>
-</td>
-<td align="center" width="96">
-<img src="https://animate.style/img/favicon.ico" width="48" height="48" alt="Animate.css" />
-<br><strong>Animate.css</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=windicss" width="48" height="48" alt="WindiCSS" />
-<br><strong>WindiCSS</strong>
-</td>
-</tr>
-</table>
+---
 
-### ⚡ Backend Development
+<br/>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><strong>Express</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-<br><strong>NestJS</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
-<br><strong>Bun</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br><strong>PHP</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br><strong>Laravel</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony" />
-<br><strong>Symfony</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-<br><strong>.NET Core</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br><strong>C#</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br><strong>Django</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br><strong>FastAPI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br><strong>Spring</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br><strong>Go</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br><strong>C++</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-<br><strong>Kotlin</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-<br><strong>GraphQL</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/rest-api.svg" width="48" height="48" alt="REST API" />
-<br><strong>REST API</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/swagger-1.svg" width="48" height="48" alt="Swagger" />
-<br><strong>Swagger</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" width="48" height="48" alt="Socket.io" />
-<br><strong>Socket. io</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="48" height="48" alt="RabbitMQ" />
-<br><strong>RabbitMQ</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" width="48" height="48" alt="Kafka" />
-<br><strong>Kafka</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-<br><strong>Nginx</strong>
-</td>
-</tr>
-</table>
+## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+<div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-<br><strong>React Native</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br><strong>Dart</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-<br><strong>Kotlin</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-<br><strong>Swift</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-<br><strong>Android</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="48" height="48" alt="Ionic" />
-<br><strong>Ionic</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.svgrepo.com/show/373924/pwa.svg" width="48" height="48" alt="PWA" />
-<br><strong>PWA</strong>
-</td>
-</tr>
-</table>
+### 🎨 Frontend Magic
 
-### 🗄️ Database & ORM
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82? style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br><strong>Redis</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-<br><strong>SQLite</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra" />
-<br><strong>Cassandra</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
-<br><strong>DynamoDB</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
-<br><strong>Elastic</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-<br><strong>Prisma</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
-<br><strong>Sequelize</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br><strong>Firebase</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br><strong>Supabase</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" alt="MariaDB" />
-<br><strong>MariaDB</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" width="48" height="48" alt="Neo4j" />
-<br><strong>Neo4j</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="48" height="48" alt="Oracle" />
-<br><strong>Oracle</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
-<br><strong>SQL Server</strong>
-</td>
-</tr>
-</table>
+### ⚡ Backend Power
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB? style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database Arsenal
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1? style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br><strong>AWS</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-<br><strong>Azure</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-<br><strong>GCP</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br><strong>Vercel</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-<br><strong>Netlify</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
-<br><strong>Heroku</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-<br><strong>Actions</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-<br><strong>Jenkins</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab CI" />
-<br><strong>GitLab CI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="48" height="48" alt="CircleCI" />
-<br><strong>CircleCI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-<br><strong>Nginx</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><strong>Linux</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-<br><strong>Terraform</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" width="48" height="48" alt="Cloudflare" />
-<br><strong>Cloudflare</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/apache-2.svg" width="48" height="48" alt="Apache" />
-<br><strong>Apache</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="48" height="48" alt="ELK Stack" />
-<br><strong>ELK Stack</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="48" height="48" alt="Datadog" />
-<br><strong>Datadog</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/new_relic/new_relic-icon.svg" width="48" height="48" alt="New Relic" />
-<br><strong>New Relic</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg" width="48" height="48" alt="Sentry" />
-<br><strong>Sentry</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="48" height="48" alt="Vagrant" />
-<br><strong>Vagrant</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/traefik.svg" width="48" height="48" alt="Traefik" />
-<br><strong>Traefik</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" width="48" height="48" alt="Consul" />
-<br><strong>Consul</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon. svg" width="48" height="48" alt="Vault" />
-<br><strong>Vault</strong>
-</td>
-</tr>
-</table>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏢 Microsoft Power Platform & Enterprise
+### 📱 Mobile Development
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon. svg" width="48" height="48" alt="Power BI" />
-<br><strong>Power BI</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Power Automate" />
-<br><strong>Automate</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Power Apps" />
-<br><strong>Power Apps</strong>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint-1.svg" width="48" height="48" alt="SharePoint" />
-<br><strong>SharePoint</strong>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-teams.png" width="48" height="48" alt="Teams" />
-<br><strong>Teams</strong>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel" />
-<br><strong>Excel VBA</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="48" height="48" alt="Microsoft 365" />
-<br><strong>M365</strong>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/azure-1.png" width="48" height="48" alt="Azure AD" />
-<br><strong>Azure AD</strong>
-</td>
-</tr>
-</table>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B? style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### 🛠️ Development Tools & IDEs
+### 🛠️ Tools & Others
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-<br><strong>Visual Studio</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-<br><strong>IntelliJ</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=webstorm" width="48" height="48" alt="WebStorm" />
-<br><strong>WebStorm</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
-<br><strong>PyCharm</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sublime" width="48" height="48" alt="Sublime" />
-<br><strong>Sublime</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
-<br><strong>Vim</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
-<br><strong>Neovim</strong>
-</td>
-</tr>
-</table>
-
-### 🎨 Design & Prototyping Tools
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><strong>Figma</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
-<br><strong>Photoshop</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" alt="Illustrator" />
-<br><strong>Illustrator</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
-<br><strong>Adobe XD</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
-<br><strong>After Effects</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" />
-<br><strong>Premiere</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-<br><strong>Blender</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="48" height="48" alt="Sketch" />
-<br><strong>Sketch</strong>
-</td>
-</tr>
-</table>
-
-### 🔧 Version Control & Collaboration
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-<br><strong>GitLab</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="Bitbucket" />
-<br><strong>Bitbucket</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-<br><strong>Notion</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="48" height="48" alt="Slack" />
-<br><strong>Slack</strong>
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48" alt="Jira" />
-<br><strong>Jira</strong>
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
+---
+
 <br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## 📊 Weekly Development Breakdown
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=truongraph&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=truongraph&theme=tokyonight&hide_border=true" />
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 23 mins  ████████████░░░░░   48.2%
-JavaScript   8 hrs 42 mins   ███████░░░░░░░░░░   27.3%
-Python       3 hrs 15 mins   ██░░░░░░░░░░░░░░░   10.2%
-PHP          2 hrs 30 mins   ██░░░░░░░░░░░░░░░    7.9%
-JSON         1 hr 15 mins    █░░░░░░░░░░░░░░░░    3.9%
-Other        48 mins         █░░░░░░░░░░░░░░░░    2.5%
-```
-<!--END_SECTION:waka-->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongraph&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=truongraph&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
-
-<br/>
-
-## 📈 GitHub Statistics
 
 <div align="center">
   
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=truongraph&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&custom_title=GitHub%20Statistics" />
-</td>
-<td>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=truongraph&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&card_width=400" />
-</td>
-</tr>
-</table>
+### 🏆 GitHub Trophies
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/? user=truongraph&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=ffffff&sideNums=ffffff&dates=8B8B8B" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=truongraph&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
+![](https://github-profile-trophy.vercel.app/?username=truongraph&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
-<br/>
-
-## 📊 Contribution Activity
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=truongraph&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
-<details>
-<summary><b>📊 Detailed GitHub Metrics</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=truongraph&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=truongraph&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=truongraph&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=truongraph&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=truongraph&theme=github_dark" />
-</div>
-
-</details>
+---
 
 <br/>
 
-## 💼 Professional Experience & Journey
-
-<details open>
-<summary><b>🚀 Click to view my professional journey</b></summary>
-
-<br/>
-
-### 💼 Current Position
-
-**🎯 Senior Full Stack Developer & Solution Architect**  
-**KMK Technology Company** | *2020 - Present*
-
-<div align="left">
-
-```yaml
-Responsibilities:
-  - 🏗️ Leading development of enterprise-scale applications
-  - 🎨 Architecting microservices and distributed systems
-  - 🚀 Implementing advanced UI/UX with modern frameworks
-  - 🤖 Integrating AI/ML solutions for business automation
-  - 📊 Building data visualization and analytics platforms
-  - 👥 Mentoring junior developers and conducting code reviews
-  - 🔧 Establishing CI/CD pipelines and DevOps practices
-  - 📝 Writing technical documentation and best practices
-
-Key Achievements:
-  ✨ Delivered 50+ production-ready web applications
-  🚀 Improved application performance by up to 70%
-  👥 Mentored and trained 20+ junior developers
-  📈 Increased team productivity by 40% through automation
-  🏆 Recognized as "Developer of the Year" 2023
-  💡 Filed 3 technical patents for innovative solutions
-  🌟 Achieved 99.9% uptime for critical applications
-```
-
-</div>
-
-### 📚 Previous Experience
-
-**Full Stack Developer**  
-**Freelance & Contract Work** | *2018 - 2020*
-
-- 🌐 Built custom web solutions for 30+ clients worldwide
-- 📱 Developed responsive mobile-first applications
-- 🎨 Created engaging UI/UX designs and prototypes
-- 🔧 Implemented RESTful APIs and microservices
-- 📊 Integrated third-party services and payment gateways
-
-**Web Developer**  
-**Startup Company** | *2017 - 2018*
-
-- 💻 Developed features for SaaS platform
-- 🧪 Wrote unit and integration tests
-- 🤝 Collaborated with cross-functional teams
-- 📈 Optimized database queries and API performance
-
-</details>
-
-<br/>
-
-## 🌍 Community Involvement & Contributions
-
-<div align="center">
-
-### 💻 Active Community Platforms
-
-<table>
-<tr>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/code. png" width="60" height="60" alt="Community"/>
-<br/><strong>Premium Resources Platform</strong>
-<br/>
-<em>Community Leader</em>
-<br/>
-<img src="https://img.shields.io/badge/Members-10K+-FF6B6B?style=flat-square"/>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/share.png" width="60" height="60" alt="ShareCode"/>
-<br/><strong>Code Sharing Platform</strong>
-<br/>
-<em>Core Contributor</em>
-<br/>
-<img src="https://img.shields.io/badge/Projects-5K+-4ECDC4?style=flat-square"/>
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/fluency/96/student-male.png" width="60" height="60" alt="Mentorship"/>
-<br/><strong>Student Support Platform</strong>
-<br/>
-<em>Technical Mentor</em>
-<br/>
-<img src="https://img.shields.io/badge/Students_Helped-500+-36BCF7?style=flat-square"/>
-</td>
-</tr>
-</table>
-
-### 🎤 Speaking & Teaching
-
-| Activity | Description | Impact |
-|----------|-------------|--------|
-| 🎓 **Technical Workshops** | Conducted 20+ workshops on modern web development | 800+ attendees |
-| 📝 **Tech Blogging** | Published 30+ articles on Medium & Dev.to | 50K+ views |
-| 🎥 **YouTube Tutorials** | Created video tutorials on Full Stack Development | 10K+ subscribers |
-| 💡 **Code Reviews** | Open source code review sessions | 100+ PRs reviewed |
-| 🤝 **Mentorship Program** | One-on-one mentoring for junior developers | 20+ mentees |
-
-### 🌟 Open Source Contributions
-
-<div align="left">
-
-```yaml
-Contribution Statistics:
-  - 🔥 100+ Pull Requests merged in various open source projects
-  - ⭐ 50+ GitHub repositories starred by community
-  - 🐛 50+ Issues resolved in popular frameworks
-  - 📦 10+ NPM packages published
-  - 🎯 Active contributor to:  React, Vue, Next.js ecosystems
-  - 🏆 "Top Contributor" badge in 5+ repositories
-```
-
-</div>
-
-</div>
-
-<br/>
-
-## 🎓 Skills & Expertise
+## 🎯 Current Focus
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Full Stack
-    Development))
-    Frontend
-      React/Next.js
-      Vue/Nuxt. js
-      Angular
+  root((Võ Trường))
+    🎨 Frontend
+      React Ecosystem
+      Vue.js 3
+      Next.js 14
       TypeScript
-    Backend
-      Node.js/NestJS
-      PHP/Laravel
-      . NET Core
-      Python/Django
-    Database
-      PostgreSQL
-      MongoDB
-      Redis
-      Prisma ORM
-    DevOps
+      UI/UX Design
+    ⚡ Backend
+      Node.js
+      Microservices
+      API Design
+      Database Optimization
+    ☁️ DevOps
       Docker
       CI/CD
-      AWS/Azure/GCP
-      Cloud Platforms
-    Soft Skills
-      Problem Solving
-      Team Leadership
-      Agile/Scrum
-      Communication
+      Cloud Services
+      Monitoring
+    🤖 Emerging Tech
+      AI Integration
+      Web3
+      Blockchain
+      IoT
 ```
 
 </div>
 
+---
+
 <br/>
 
-## 🗣️ Languages
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Language | Proficiency | Usage |
-|----------|-------------|-------|
-| 🇻🇳 **Vietnamese** | Native | Daily communication, documentation |
-| 🇬🇧 **English** | Professional | Technical docs, international collaboration |
-| 🇯🇵 **Japanese** | Basic | Reading technical documentation |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌟 E-Commerce Platform
+Scalable e-commerce solution with modern tech stack
+- ⚡ Next.js + TypeScript
+- 🎨 TailwindCSS + Framer Motion  
+- 🛍️ Stripe Integration
+- 📊 Real-time Analytics
+
+[![Repo](https://img.shields.io/badge/View_Repo-000? style=for-the-badge&logo=github)](https://github.com/truongraph)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Business Automation Suite
+Enterprise workflow automation platform
+- 🤖 Power Automate Integration
+- 📈 Business Intelligence
+- 🔄 Process Orchestration
+- 📊 Custom Dashboards
+
+[![Repo](https://img.shields.io/badge/View_Repo-000?style=for-the-badge&logo=github)](https://github.com/truongraph)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Real-time Gaming Platform
+Multiplayer gaming experience
+- 🕹️ WebSocket Communication
+- 🎯 Canvas API Graphics
+- 🏆 Leaderboard System
+- 💬 Live Chat
+
+[![Repo](https://img.shields.io/badge/View_Repo-000?style=for-the-badge&logo=github)](https://github.com/truongraph)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile App Suite
+Cross-platform mobile applications
+- 📲 React Native
+- 🔥 Firebase Backend
+- 🎨 Beautiful UI/UX
+- 📊 Analytics Integration
+
+[![Repo](https://img.shields.io/badge/View_Repo-000?style=for-the-badge&logo=github)](https://github.com/truongraph)
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://votruong.info" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Website-votruong.info-4A5DFF?style=for-the-badge&logoColor=white" />
-</a>
-<a href="mailto:truong.vd2000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/vtruong. it/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@truongbinnn" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://twitter.com/truongraph" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://dev.to/truongraph" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=radical)
-
-</div>
-
-<br/>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel. app/api/view?uid=31zq7qsydbqxauy52klxjqfxrsoi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=36bcf7&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zq7qsydbqxauy52klxjqfxrsoi&redirect=true)
-
-</div>
-
-<br/>
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you find my projects helpful, consider buying me a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/truongvo" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
-
-</div>
-
-<br/>
 
 ---
 
+<br/>
+
+## 💼 Professional Journey
+
 <div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<br/>
-
-### Show some ❤️ by starring some of my repositories! 
-
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/truongraph/count.svg)
+```ascii
+2017 → 2018 → 2020 ───────────────────────→ 2026
+  │      │      │                              │
+  │      │      │                              │
+  🎓     💻     🚀                             ⭐
+Start  Junior  Full Stack              Senior Architect
+       Dev     Developer
+```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+### 🏢 Career Timeline
+
+<details>
+<summary><b>🔥 Click to expand my journey</b></summary>
+
+<br/>
+
+**🎯 Senior Full Stack Developer & Solution Architect**  
+*KMK Technology Company* | `2020 - Present`
+
+```yaml
+Achievements:
+  - 🏗️ Led architecture design for 15+ enterprise projects
+  - 📈 Improved system performance by 70% on average
+  - 👥 Mentored 20+ junior developers
+  - 🚀 Deployed 50+ production applications
+  - 💡 Implemented CI/CD for entire organization
+  - 🏆 "Developer of the Year" Award 2023
+```
+
+**💻 Full Stack Developer**  
+*Freelance* | `2018 - 2020`
+
+```yaml
+Projects:
+  - 🌐 30+ client projects worldwide
+  - 💼 E-commerce, SaaS, Corporate websites
+  - 📱 Mobile apps for iOS & Android
+  - 🎨 UI/UX design & prototyping
+```
+
+**🎓 Junior Developer**  
+*Startup Company* | `2017 - 2018`
+
+```yaml
+Learning:
+  - 📚 Fundamental web development
+  - 🧪 Testing & debugging
+  - 👥 Team collaboration
+  - 📊 Agile methodologies
+```
+
+</details>
+
+---
+
+<br/>
+
+## 🌟 What I Do Best
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100px"/>
+<br/><b>Frontend Development</b>
+<br/>Creating stunning, responsive UIs
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px"/>
+<br/><b>Backend Architecture</b>
+<br/>Building scalable server solutions
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100px"/>
+<br/><b>DevOps & Cloud</b>
+<br/>Automating deployment pipelines
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px"/>
+<br/><b>Problem Solving</b>
+<br/>Turning bugs into features
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br/>
+
+## 📚 Learning & Growing
+
+<div align="center">
+
+**🎯 Currently Exploring**
+
+![AI](https://img.shields.io/badge/🤖_AI_&_ML-Exploring-00D9FF?style=for-the-badge)
+![Web3](https://img.shields.io/badge/🌐_Web3-Learning-00D9FF?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/⛓️_Blockchain-Studying-00D9FF?style=for-the-badge)
+![Cloud Native](https://img.shields.io/badge/☁️_Cloud_Native-Mastering-00D9FF?style=for-the-badge)
+
+**📖 Reading List**
+
+- 📕 Clean Architecture - Robert C. Martin
+- 📗 Domain-Driven Design - Eric Evans
+- 📘 Designing Data-Intensive Applications
+- 📙 System Design Interview - Alex Xu
+
+</div>
+
+---
+
+<br/>
+
+## 🎮 Hobbies & Interests
+
+<div align="center">
+
+| 💻 Coding | ☕ Coffee | 🎵 Music | 📚 Reading | 🎮 Gaming | ✈️ Travel |
+|:---------:|:---------:|: --------:|: ----------:|:---------:|:---------:|
+| Always | Essential | Lofi Beats | Tech Books | Strategy | When Possible |
+
+</div>
+
+---
+
+<br/>
+
+## 🌐 Community & Contributions
+
+<div align="center">
+
+### 💡 Open Source Contributions
+
+![](https://github-contributor-stats.vercel.app/api? username=truongraph&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### 🤝 Community Involvement
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/dusk/100/000000/groups. png" width="60"/>
+<br/><b>10K+ Members</b>
+<br/>Community Leader
+</td>
+<td align="center">
+<img src="https://img.icons8.com/dusk/100/000000/share-2.png" width="60"/>
+<br/><b>5K+ Projects</b>
+<br/>Code Shared
+</td>
+<td align="center">
+<img src="https://img.icons8.com/dusk/100/000000/student-male. png" width="60"/>
+<br/><b>500+ Students</b>
+<br/>Mentored
+</td>
+<td align="center">
+<img src="https://img.icons8.com/dusk/100/000000/blog.png" width="60"/>
+<br/><b>30+ Articles</b>
+<br/>Published
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br/>
+
+## 📫 Let's Connect! 
+
+<div align="center">
+
+### 💬 Get In Touch
+
+<a href="mailto:truong.vd2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/v%C3%B5-tr%C6%B0%E1%BB%9Dng-3432882a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/truongraph">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/vtruong. it/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@truongbinnn">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://dev.to/truongraph">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💼 Portfolio & Website
+
+[![Portfolio](https://img.shields.io/badge/🌐_votruong.info-Visit_My_Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://votruong.info)
+
+</div>
+
+---
+
+<br/>
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api? type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<br/>
+
+## 🎵 Vibes
+
+<div align="center">
+
+### 🎧 Currently Listening To
+
+[![Spotify](https://novatorem-truong.vercel.app/api/spotify)](https://open.spotify.com/user/31zq7qsydbqxauy52klxjqfxrsoi)
+
+</div>
+
+---
+
+<br/>
+
+## 🎁 Support My Work
+
+<div align="center">
+
+### ☕ Buy Me a Coffee
+
+If you like my work and want to support me: 
+
+<a href="https://www.buymeacoffee.com/truongvo">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+<br/><br/>
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 🌈 Fun Fact
+
+```python
+def life_philosophy():
+    code = "☕ Coffee"
+    love = "💖 Passion"
+    bugs = "🐛 Challenges"
+    
+    return f"{code} + {love} + {bugs} = 🚀 Amazing Software"
+
+print(life_philosophy())
+# Output: ☕ Coffee + 💖 Passion + 🐛 Challenges = 🚀 Amazing Software
+```
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📊 Profile Stats
+
+![Metrics](https://metrics.lecoq.io/truongraph?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FHo_Chi_Minh)
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/truongraph/truongraph/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🎯 Life Motto
+
+**"Code with passion, debug with patience, deploy with confidence"**
+
+<br/>
+
+### 💖 Thank You for Visiting!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom. svg)
+
+---
+
+<sub>💡 This README is automatically updated every day! </sub>
+
+<br/>
+
+**[⬆ Back to Top](#-welcome-to-my-digital-universe-)**
+
+</div>
