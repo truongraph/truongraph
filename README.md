@@ -91,18 +91,16 @@
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=truongraph&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=truongraph&theme=tokyonight" height="160" />
-</p>
+<!-- Copy-paste in your Readme.md file -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongraph&layout=compact&theme=tokyonight" height="160" />
-</p>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=51073097" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=51073097&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @truongraph" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=51073097&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=truongraph&theme=onedark&row=1&column=6" />
-</p>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ---
 
