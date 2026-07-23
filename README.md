@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi there, I'm Trường (Võ Trường)</h1>
 
 <p align="left">
-  🌐 <a href="https://votruong.info" target="_blank"><strong>votruong.info</strong></a> &nbsp;|&nbsp;
+  🌐 <a href="https://votruong.xyz" target="_blank"><strong>votruong.xyz</strong></a> &nbsp;|&nbsp;
   💼 Full Stack Developer &nbsp;|&nbsp;
   📍 Vietnam
 </p>
